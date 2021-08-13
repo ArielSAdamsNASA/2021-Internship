@@ -19,3 +19,8 @@ See new comment on cppcheck issue: https://github.com/ArielSAdamsNASA/2021-Inter
 # 8/11/21
 - researched more about GitHub actions and workflows. 
 - working on an improved cppcheck workflow
+
+# 8/12/21
+- Today I spent most of the day getting cFS to work. I found out that the Academy's IT Security Department was blocking the submodule updates. When I manually cloned the files it was not getting everything. I ended up using my hotspot and after a couple tried it all ended up working. Once I got cFS to work, I started going through the training manual. My understanding of cFS is definitely much better.
+- I got a bit stuck with writing the COBRA github action workflow so I started researching into Coverity. I created an account and have been looking and finding a way to get it to work with github.
+- With the cppcheck I tried to find a way to remove the empty archive files but I am still struggling with understanding the code. I think it might be easier to keep the current code as having more information printed is probably better.
